@@ -3,7 +3,7 @@ Path and Trajectory Repository
 
 These Project Includes:
 1. Cubic Polynomial Plotting 
-<img src="Cubic_Plot.jpg">
+<img src="Cubic_Plot.JPG">
 
 
 2. Quintic Polynomial Plotting
